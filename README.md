@@ -1,5 +1,6 @@
 # Important
-The task description is located at the end of this file. Before evaluating my solution, please make sure to read the section titled `Personal Notes`.
+The task description is located at the end of this file. Before evaluating my solution, please make sure to read all sections, 
+the one titled `Personal Notes`.
 
 ## Troubleshooting
 If you encounter issues when running tests with Firefox, try to compile project and then place the `TestProject1/geckodriver.exe` file into `TestProject1/bin/Debug/net8.0` folder.
